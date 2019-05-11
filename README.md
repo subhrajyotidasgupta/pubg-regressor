@@ -1,0 +1,1 @@
+This repository contains a Jupyter Notebook that was used to predict 'the average damage inflicted in PUBG game by the player' based on several details provided. The dataset used is a subset of the original PUBG dataset available in Kaggle.
